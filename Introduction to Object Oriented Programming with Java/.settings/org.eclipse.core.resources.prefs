@@ -1,6 +1,9 @@
 eclipse.preferences.version=1
 encoding//src/com/aytuncbakir/oop/ch02/lecture02/Naming.java=UTF-8
-encoding//src/com/aytuncbakir/oop/ch03/primitives/Primitives.java=UTF-8
-encoding//src/com/aytuncbakir/oop/ch03/primitives/characters/Characters.java=UTF-8
-encoding//src/com/aytuncbakir/oop/ch03/primitives/characters/TurkishCharacters.java=UTF-8
-encoding//src/com/aytuncbakir/oop/ch03/primitives/characters/UnicodeSelam.java=UTF-8
+encoding//src/com/aytuncbakir/oop/ch02/lecture04/AddingAttributesToClass.java=UTF-8
+encoding//src/com/aytuncbakir/oop/ch02/lecture04/AddingMethodsToClass.java=UTF-8
+encoding//src/com/aytuncbakir/oop/ch02/lecture04/DefiningClass.java=UTF-8
+encoding//src/com/aytuncbakir/oop/ch02/lecture05/CreatingObjects.java=UTF-8
+encoding//src/com/aytuncbakir/oop/ch03/lecture09/NarrowingConversions.java=UTF-8
+encoding//src/com/aytuncbakir/oop/ch08/lecture04/CompoundObject.java=UTF-8
+encoding//src/com/aytuncbakir/oop/ch10/lecture03/JavaPackages.java=UTF-8
